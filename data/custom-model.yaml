@@ -1,0 +1,11 @@
+path: /opt/ml/input/data/training
+train: images/train
+val: images/validation
+names:
+  0: contamination
+  1: blob
+  2: overheating
+  3: stringing
+  4: layerseparation
+  5: warping
+  6: object
